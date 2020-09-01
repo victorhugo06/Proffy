@@ -1,6 +1,10 @@
 # Proffy
+
 Site web para cadastro de professores particulares desenvolvido durante a semana next level da rocketseat.
 
-Instalar o node.js para criar a pasta node_modules.
+Front-end: Html, CSS e JS
+Back-end: node.js , express, npm.
+Banco de dado: Sqlite
 
-O sistema está com o banco de dados incompleto.
+
+
